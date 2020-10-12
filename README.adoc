@@ -1,0 +1,6 @@
+= My-CTF-Writeups
+
+== Blog links 
+
+
+https://blog.efiens.com/execute-arbitrary-function-in-binary/[execute-arbitrary-function-in-binary]
