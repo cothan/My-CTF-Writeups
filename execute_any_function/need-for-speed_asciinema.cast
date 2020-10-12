@@ -32,7 +32,7 @@
 [3.968795, "o", "Loading symbols for linux-vdso.so.1 ... \u001b[33m[ Failed to load ]\u001b[0m\r\n"]
 [4.03283, "o", "Warning: run r2 with -e io.cache=true to fix relocations in disassembly\r\n"]
 [4.089957, "o", "\u001b[32mThread 394542 hit breakpoint at 0x5627fe189660\u001b[0m\r\n"]
-[5.059752, "o", "PICOCTF{Good job keeping bus #24c43740 speeding along!}\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n"]
+[5.059752, "o", "PICOCTF{Good job keeping bus [CENSORED]}\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n"]
 [5.16216, "o", "\u001b[0m"]
 [6.058627, "o", "\r\n"]
 [6.682872, "o", "^C"]
